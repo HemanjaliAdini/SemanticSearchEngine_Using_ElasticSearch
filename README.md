@@ -50,25 +50,7 @@ Product Name
 Description
 Brand
 Price
-Installation & Setup
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/HemanjaliAdini/SemanticSearchEngine_Using_ElasticSearch.git
-cd SemanticSearchEngine_Using_ElasticSearch
-2. Install Dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-3. Run the Application
-To run the web interface using Streamlit, execute the following command:
 
-bash
-Copy
-Edit
-streamlit run searchApp.py
 Usage
 💡 Applications of This Project:
 
