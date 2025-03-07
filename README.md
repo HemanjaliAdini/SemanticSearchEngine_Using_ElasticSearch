@@ -1,4 +1,4 @@
-readme_content = """# **Semantic Search Engine for Myntra**
+# **Semantic Search Engine for Myntra**
 A web-based search application for querying **Myntra fashion products** based on descriptions and attributes.
 
 ---
